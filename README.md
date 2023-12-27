@@ -1,11 +1,7 @@
 <h1 align="center">Howdy, My Name is Leonard Holter</h1>
 <h3 align="center">A developer from Norway🇳🇴</h3>
 
-- 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **leonardholter17@outlook.com**
-
-- 🎓Education **Currently studying at Columbia Universtiy**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
