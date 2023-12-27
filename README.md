@@ -1,4 +1,4 @@
-<h1 align="center">Howdy, My Name is Leonard Holter</h1>
+<h1 align="center">Howdy,   My Name is Leonard Holter</h1>
 <h3 align="center">A developer from Norway🇳🇴</h3>
 
 
