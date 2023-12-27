@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Leonard Holter</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Howdy, My Name is Leonard Holter</h1>
+<h3 align="center">A developer from Norway🇳🇴</h3>
 
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **leonardholter17@outlook.com**
 
+- 🎓Education **Currently studying at Columbia Universtiy**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/holter0517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="holter0517" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonard holter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard holter" height="30" width="40" /></a>
 </p>
 
