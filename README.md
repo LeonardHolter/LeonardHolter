@@ -6,7 +6,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/holter0517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="holter0517" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leonard holter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonard-holter-86b6a0226" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leonard-holter-86b6a0226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Leonard Holter" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
