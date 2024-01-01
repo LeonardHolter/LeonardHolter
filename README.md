@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeonardHolter&theme=dark&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeonardHolter&theme=highcontrast)](https://git.io/streak-stats)
 <p/>
   
 <h3 align="center">Languages and Tools:</h3>
