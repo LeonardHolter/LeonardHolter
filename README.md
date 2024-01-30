@@ -2,7 +2,7 @@
 <h3 align="center">A developer from Norway🇳🇴</h3>
 
 
-<h5 aligin="center"> Languages -> Python, Swift and Javascript </h5>
+<h5 align="center"> Languages -> Python, Swift and Javascript </h5>
 
 
 
